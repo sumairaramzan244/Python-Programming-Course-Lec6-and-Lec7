@@ -10,7 +10,7 @@ In Lecture 6 and 7 , I learned about different data types in Python and how to u
 
 ---
 
-## What I Learned
+## What I Learned  
 * `str`, `int`, `float`, and `bool` are the four basic data types in Python  
 * `Tuple` is an ordered and unchangeable collection written in `( )`  
 * `List` is an ordered and changeable collection written in `[ ]`  
