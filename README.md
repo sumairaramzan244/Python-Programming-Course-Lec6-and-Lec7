@@ -1,6 +1,6 @@
 # Python-Programming-Course-Lec6-and-Lec7
 
-# Python Advance  — Punjab Hunarmand Batch 3
+# Python Advance  — Punjab Hunarmand Batch 3  
 This repository contains my Python code from Lecture 6 and 7  at Punjab Hunarmand Program, Batch 3  
 
 ---
