@@ -3,7 +3,7 @@
 # Python Advance  — Punjab Hunarmand Batch 3  
 This repository contains my Python code from Lecture 6 and 7  at Punjab Hunarmand Program, Batch 3  
 
----
+---   
 
 ## Lecture 6 and 7  — Data Types & Operators in Python  
 In Lecture 6 and 7 , I learned about different data types in Python and how to use arithmetic operators. I also practiced printing variables together using comma and plus operator and solved a date of birth calculation task.  
