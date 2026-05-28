@@ -33,7 +33,7 @@ In Lecture 6 and 7 , I learned about different data types in Python and how to u
 
 ---
 
-## Ownership  
+## Ownership   
 Author  : Sumaira Ramzan  
 Program : Punjab Hunarmand, Python Programming Course — Batch 3  
 City    : Punjab, Pakistan  
